@@ -1,5 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=Atul-Chaurasia&icon=5&color=1)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
-👨🏻‍🎓 Currently pursuing BE/B.Tech from IET~DAVV University Indore.<br>🤔 Exploring new technologies and developing software solutions and quick hacks.<br>
+👨🏻‍🎓 Currently pursuing Bachelor of Engineering from IET-DAVV University Indore.<br>🤔 Exploring new technologies and developing software solutions and quick hacks.<br>
 
 
 ## 🌐 Socials:
@@ -13,9 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Chaurasia&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Atul-Chaurasia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Atul-Chaurasia&icon=5&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-profile-trophy.vercel.app/?username=Atul-Chaurasia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
