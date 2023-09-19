@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Atul-Chaurasia&icon=5&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-👨🏻‍🎓 Currently pursuing Bachelor of Engineering from IET-DAVV University Indore.<br>🤔 Exploring new technologies and developing software solutions and quick hacks.<br>
+👨🏻‍🎓 Pursued Bachelor of Engineering from IET-DAVV University Indore.<br>🤔 Exploring new technologies and developing software solutions and quick hacks.<br>
 
 
 ## 🌐 Socials:
